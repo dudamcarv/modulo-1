@@ -1,0 +1,9 @@
+1. Solução Dissertativa
+Entrada de Dados: Receber o valor de n, onde n é o número pelo qual queremos multiplicar 9.
+
+Processamento:
+Calcular o primeiro dígito do resultado (digito1) como n-1.
+Calcular o segundo dígito do resultado (digito2) como 10-n.
+Combinar os dois dígitos para obter o resultado final da multiplicação de 9 por n. O resultado é calculado como digito1 * 10 + digito2.
+
+Saída: Imprimir o resultado final.
